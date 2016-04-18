@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RandkiUser</string>
+
+    <string-array name="plec_array">
+        <item>K</item>
+        <item>M</item>
+        <item>Inna</item>
+    </string-array>
+
+    <string-array name="orientacja_array">
+        <item>Hetero</item>
+        <item>Homo</item>
+        <item>Bi</item>
+        <item>Inna</item>
+    </string-array>
+
+    <string-array name="miasto_array">
+        <item>Krakow</item>
+        <item>Warszawa</item>
+        <item>Wroclaw</item>
+        <item>Gdansk</item>
+    </string-array>
+
+</resources>
